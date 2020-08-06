@@ -121,7 +121,7 @@
       }
 
       /**
-       * Undocumented function
+       * fungsi yang digunakan untuk menampilkan semua data karyawan
        *
        * @return array
        */
